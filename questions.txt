@@ -1,0 +1,36 @@
+Is the Earth round? [YN]
+1
+What is the capital of France?
+Paris
+London
+Berlin
+Madrid
+0
+Does Java support multiple inheritance? [YN]
+1
+Which data structure uses FIFO order?
+Stack
+Queue
+Tree
+Graph
+1
+Is water wet? [YN]
+0
+Which keyword is used to inherit a class in Java?
+this
+super
+extends
+implements
+2
+What is the size of an int in Java?
+4 bytes
+2 bytes
+8 bytes
+1 byte
+0
+Which protocol is used to send email?
+HTTP
+FTP
+SMTP
+TCP
+2
